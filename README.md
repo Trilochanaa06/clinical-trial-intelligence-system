@@ -1,14 +1,13 @@
 # Clinical Trial Performance Intelligence System
 ## Dashboard Preview
 
-![Executive Overview](screenshots/dashboard_overview.png)
+![Executive Overview](screenshots/executive_overview.png.png)
 
-![Site Performance](screenshots/site_performance_dashboard.png)
+![Site Performance](screenshots/site_performance_dashboard.png.png)
 
-![Risk Monitoring](screenshots/risk_monitoring_dashboard.png)
+![Risk Monitoring](screenshots/risk_monitoring_dashboard.png.png)
 
-![Protocol Deviations](screenshots/protocol_deviation_dashboard.png)
-
+![Protocol Deviations](screenshots/protocol_deviation_dashboard.png.png)
 ## Project Overview
 
 Clinical trials generate large volumes of operational data across multiple study sites. Delays in enrollment, protocol deviations, patient dropout, and site performance issues can significantly impact trial timelines and costs.
