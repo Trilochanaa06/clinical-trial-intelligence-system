@@ -1,0 +1,501 @@
+deviation_id,trial_id,site_id,deviation_type,severity
+D0001,T008,S037,Eligibility Violation,Major
+D0002,T010,S047,Dosage Error,Minor
+D0003,T008,S036,Data Entry Delay,Minor
+D0004,T007,S035,Eligibility Violation,Major
+D0005,T003,S011,Eligibility Violation,Minor
+D0006,T008,S040,Dosage Error,Critical
+D0007,T008,S037,Dosage Error,Critical
+D0008,T001,S001,Dosage Error,Major
+D0009,T004,S019,Missing Visit,Minor
+D0010,T009,S044,Missing Visit,Major
+D0011,T003,S013,Eligibility Violation,Minor
+D0012,T007,S035,Missing Visit,Critical
+D0013,T005,S025,Missing Visit,Major
+D0014,T002,S006,Data Entry Delay,Critical
+D0015,T009,S041,Dosage Error,Critical
+D0016,T001,S005,Dosage Error,Major
+D0017,T001,S002,Data Entry Delay,Critical
+D0018,T003,S014,Missing Visit,Minor
+D0019,T008,S037,Missing Visit,Minor
+D0020,T001,S001,Data Entry Delay,Critical
+D0021,T006,S028,Missing Visit,Minor
+D0022,T007,S032,Eligibility Violation,Major
+D0023,T005,S025,Data Entry Delay,Minor
+D0024,T009,S041,Eligibility Violation,Critical
+D0025,T006,S026,Data Entry Delay,Critical
+D0026,T010,S048,Data Entry Delay,Minor
+D0027,T006,S027,Missing Visit,Critical
+D0028,T002,S008,Data Entry Delay,Critical
+D0029,T006,S026,Dosage Error,Major
+D0030,T010,S049,Missing Visit,Critical
+D0031,T010,S047,Missing Visit,Critical
+D0032,T003,S013,Data Entry Delay,Minor
+D0033,T005,S025,Data Entry Delay,Critical
+D0034,T008,S037,Missing Visit,Critical
+D0035,T009,S045,Dosage Error,Major
+D0036,T004,S020,Dosage Error,Major
+D0037,T010,S049,Data Entry Delay,Major
+D0038,T004,S017,Missing Visit,Critical
+D0039,T010,S049,Data Entry Delay,Minor
+D0040,T003,S014,Data Entry Delay,Major
+D0041,T006,S030,Missing Visit,Critical
+D0042,T008,S039,Missing Visit,Major
+D0043,T002,S007,Missing Visit,Major
+D0044,T009,S043,Eligibility Violation,Critical
+D0045,T006,S028,Missing Visit,Major
+D0046,T008,S037,Missing Visit,Minor
+D0047,T003,S013,Data Entry Delay,Major
+D0048,T005,S022,Data Entry Delay,Critical
+D0049,T002,S007,Missing Visit,Critical
+D0050,T001,S001,Missing Visit,Critical
+D0051,T008,S037,Dosage Error,Major
+D0052,T007,S032,Dosage Error,Minor
+D0053,T008,S040,Data Entry Delay,Critical
+D0054,T009,S043,Eligibility Violation,Critical
+D0055,T005,S023,Data Entry Delay,Critical
+D0056,T010,S047,Missing Visit,Major
+D0057,T001,S005,Missing Visit,Major
+D0058,T007,S034,Data Entry Delay,Critical
+D0059,T008,S039,Dosage Error,Major
+D0060,T004,S016,Data Entry Delay,Critical
+D0061,T007,S031,Dosage Error,Major
+D0062,T008,S039,Data Entry Delay,Critical
+D0063,T003,S012,Data Entry Delay,Major
+D0064,T004,S017,Dosage Error,Minor
+D0065,T008,S037,Missing Visit,Major
+D0066,T007,S032,Missing Visit,Critical
+D0067,T010,S048,Data Entry Delay,Minor
+D0068,T004,S019,Dosage Error,Minor
+D0069,T002,S010,Eligibility Violation,Minor
+D0070,T006,S029,Eligibility Violation,Minor
+D0071,T007,S033,Missing Visit,Minor
+D0072,T010,S047,Eligibility Violation,Minor
+D0073,T010,S047,Eligibility Violation,Critical
+D0074,T009,S042,Data Entry Delay,Major
+D0075,T010,S049,Data Entry Delay,Minor
+D0076,T002,S010,Missing Visit,Major
+D0077,T007,S035,Dosage Error,Minor
+D0078,T009,S045,Eligibility Violation,Minor
+D0079,T006,S026,Missing Visit,Minor
+D0080,T004,S018,Missing Visit,Minor
+D0081,T005,S025,Missing Visit,Major
+D0082,T002,S008,Dosage Error,Minor
+D0083,T006,S027,Dosage Error,Critical
+D0084,T008,S040,Eligibility Violation,Critical
+D0085,T004,S016,Missing Visit,Minor
+D0086,T008,S037,Eligibility Violation,Major
+D0087,T002,S008,Dosage Error,Major
+D0088,T010,S049,Eligibility Violation,Major
+D0089,T004,S020,Eligibility Violation,Minor
+D0090,T009,S041,Eligibility Violation,Major
+D0091,T009,S044,Data Entry Delay,Minor
+D0092,T009,S043,Missing Visit,Major
+D0093,T003,S015,Data Entry Delay,Major
+D0094,T007,S031,Eligibility Violation,Major
+D0095,T003,S014,Data Entry Delay,Critical
+D0096,T005,S022,Eligibility Violation,Minor
+D0097,T003,S013,Eligibility Violation,Critical
+D0098,T005,S022,Eligibility Violation,Major
+D0099,T005,S024,Data Entry Delay,Critical
+D0100,T005,S022,Missing Visit,Minor
+D0101,T003,S015,Eligibility Violation,Major
+D0102,T006,S026,Missing Visit,Minor
+D0103,T005,S023,Dosage Error,Major
+D0104,T001,S004,Dosage Error,Critical
+D0105,T005,S025,Eligibility Violation,Critical
+D0106,T007,S033,Dosage Error,Major
+D0107,T001,S003,Data Entry Delay,Minor
+D0108,T008,S037,Dosage Error,Minor
+D0109,T009,S042,Data Entry Delay,Critical
+D0110,T009,S045,Data Entry Delay,Critical
+D0111,T008,S038,Dosage Error,Minor
+D0112,T010,S050,Missing Visit,Minor
+D0113,T009,S042,Missing Visit,Minor
+D0114,T002,S006,Data Entry Delay,Minor
+D0115,T010,S047,Data Entry Delay,Major
+D0116,T002,S009,Missing Visit,Major
+D0117,T008,S036,Dosage Error,Critical
+D0118,T006,S030,Eligibility Violation,Minor
+D0119,T004,S020,Data Entry Delay,Major
+D0120,T009,S044,Dosage Error,Minor
+D0121,T004,S016,Dosage Error,Major
+D0122,T007,S034,Data Entry Delay,Major
+D0123,T007,S031,Dosage Error,Minor
+D0124,T009,S044,Missing Visit,Minor
+D0125,T004,S016,Data Entry Delay,Minor
+D0126,T001,S001,Dosage Error,Major
+D0127,T004,S018,Dosage Error,Critical
+D0128,T005,S025,Missing Visit,Major
+D0129,T005,S022,Dosage Error,Minor
+D0130,T001,S003,Dosage Error,Critical
+D0131,T006,S027,Data Entry Delay,Major
+D0132,T007,S031,Eligibility Violation,Minor
+D0133,T007,S035,Dosage Error,Major
+D0134,T010,S047,Data Entry Delay,Major
+D0135,T009,S041,Dosage Error,Major
+D0136,T001,S005,Eligibility Violation,Major
+D0137,T004,S016,Dosage Error,Minor
+D0138,T001,S001,Dosage Error,Minor
+D0139,T008,S037,Dosage Error,Minor
+D0140,T003,S014,Eligibility Violation,Critical
+D0141,T005,S023,Dosage Error,Minor
+D0142,T007,S032,Eligibility Violation,Critical
+D0143,T009,S041,Eligibility Violation,Minor
+D0144,T006,S030,Missing Visit,Minor
+D0145,T002,S008,Missing Visit,Minor
+D0146,T001,S002,Data Entry Delay,Minor
+D0147,T004,S016,Eligibility Violation,Minor
+D0148,T009,S043,Missing Visit,Critical
+D0149,T009,S043,Data Entry Delay,Critical
+D0150,T008,S039,Dosage Error,Minor
+D0151,T010,S048,Data Entry Delay,Major
+D0152,T003,S011,Eligibility Violation,Major
+D0153,T005,S021,Dosage Error,Major
+D0154,T001,S001,Missing Visit,Minor
+D0155,T007,S032,Dosage Error,Major
+D0156,T003,S014,Data Entry Delay,Major
+D0157,T002,S008,Missing Visit,Minor
+D0158,T008,S038,Dosage Error,Critical
+D0159,T001,S001,Dosage Error,Critical
+D0160,T009,S042,Eligibility Violation,Critical
+D0161,T010,S049,Missing Visit,Critical
+D0162,T002,S006,Missing Visit,Major
+D0163,T009,S045,Eligibility Violation,Minor
+D0164,T003,S015,Data Entry Delay,Major
+D0165,T006,S028,Missing Visit,Critical
+D0166,T001,S005,Eligibility Violation,Critical
+D0167,T002,S006,Eligibility Violation,Major
+D0168,T008,S040,Data Entry Delay,Major
+D0169,T009,S043,Data Entry Delay,Major
+D0170,T008,S038,Dosage Error,Critical
+D0171,T003,S012,Missing Visit,Critical
+D0172,T009,S041,Missing Visit,Major
+D0173,T008,S040,Dosage Error,Major
+D0174,T009,S041,Eligibility Violation,Minor
+D0175,T006,S030,Data Entry Delay,Major
+D0176,T006,S028,Eligibility Violation,Critical
+D0177,T005,S025,Eligibility Violation,Critical
+D0178,T010,S047,Eligibility Violation,Major
+D0179,T002,S010,Eligibility Violation,Critical
+D0180,T003,S011,Eligibility Violation,Major
+D0181,T005,S022,Dosage Error,Minor
+D0182,T008,S038,Eligibility Violation,Major
+D0183,T004,S020,Eligibility Violation,Major
+D0184,T010,S049,Dosage Error,Minor
+D0185,T001,S003,Eligibility Violation,Minor
+D0186,T005,S024,Data Entry Delay,Major
+D0187,T008,S038,Eligibility Violation,Minor
+D0188,T001,S003,Dosage Error,Minor
+D0189,T004,S017,Eligibility Violation,Critical
+D0190,T001,S003,Data Entry Delay,Critical
+D0191,T010,S047,Data Entry Delay,Critical
+D0192,T003,S014,Data Entry Delay,Minor
+D0193,T001,S002,Dosage Error,Minor
+D0194,T005,S023,Missing Visit,Critical
+D0195,T003,S012,Dosage Error,Major
+D0196,T009,S042,Missing Visit,Critical
+D0197,T002,S010,Eligibility Violation,Minor
+D0198,T003,S011,Eligibility Violation,Critical
+D0199,T004,S018,Dosage Error,Minor
+D0200,T004,S020,Eligibility Violation,Minor
+D0201,T009,S041,Eligibility Violation,Minor
+D0202,T007,S035,Eligibility Violation,Critical
+D0203,T008,S039,Eligibility Violation,Critical
+D0204,T003,S013,Dosage Error,Major
+D0205,T008,S037,Eligibility Violation,Major
+D0206,T009,S045,Data Entry Delay,Major
+D0207,T006,S027,Eligibility Violation,Critical
+D0208,T008,S040,Data Entry Delay,Major
+D0209,T007,S035,Data Entry Delay,Critical
+D0210,T006,S030,Eligibility Violation,Major
+D0211,T006,S029,Dosage Error,Minor
+D0212,T006,S029,Eligibility Violation,Critical
+D0213,T005,S023,Missing Visit,Minor
+D0214,T006,S028,Eligibility Violation,Critical
+D0215,T007,S032,Missing Visit,Major
+D0216,T001,S003,Missing Visit,Minor
+D0217,T007,S032,Eligibility Violation,Major
+D0218,T004,S019,Data Entry Delay,Critical
+D0219,T002,S009,Dosage Error,Major
+D0220,T007,S035,Data Entry Delay,Minor
+D0221,T010,S046,Dosage Error,Minor
+D0222,T006,S028,Missing Visit,Major
+D0223,T005,S023,Eligibility Violation,Minor
+D0224,T008,S040,Missing Visit,Minor
+D0225,T008,S040,Dosage Error,Minor
+D0226,T010,S050,Dosage Error,Major
+D0227,T006,S030,Missing Visit,Minor
+D0228,T004,S016,Eligibility Violation,Major
+D0229,T001,S004,Missing Visit,Critical
+D0230,T010,S050,Eligibility Violation,Critical
+D0231,T004,S018,Missing Visit,Minor
+D0232,T008,S039,Dosage Error,Minor
+D0233,T007,S034,Dosage Error,Critical
+D0234,T001,S004,Missing Visit,Critical
+D0235,T006,S026,Dosage Error,Critical
+D0236,T009,S045,Eligibility Violation,Major
+D0237,T001,S003,Eligibility Violation,Major
+D0238,T005,S021,Data Entry Delay,Critical
+D0239,T009,S042,Dosage Error,Minor
+D0240,T003,S015,Missing Visit,Minor
+D0241,T008,S036,Missing Visit,Minor
+D0242,T010,S049,Dosage Error,Major
+D0243,T002,S009,Data Entry Delay,Critical
+D0244,T002,S007,Eligibility Violation,Critical
+D0245,T006,S027,Missing Visit,Minor
+D0246,T003,S011,Eligibility Violation,Minor
+D0247,T006,S029,Dosage Error,Minor
+D0248,T002,S006,Dosage Error,Critical
+D0249,T006,S026,Eligibility Violation,Critical
+D0250,T009,S043,Missing Visit,Critical
+D0251,T005,S024,Dosage Error,Minor
+D0252,T004,S016,Data Entry Delay,Major
+D0253,T001,S004,Dosage Error,Minor
+D0254,T010,S049,Eligibility Violation,Critical
+D0255,T003,S014,Dosage Error,Minor
+D0256,T008,S037,Dosage Error,Critical
+D0257,T005,S022,Data Entry Delay,Minor
+D0258,T002,S009,Dosage Error,Critical
+D0259,T003,S015,Data Entry Delay,Critical
+D0260,T002,S006,Data Entry Delay,Critical
+D0261,T010,S047,Dosage Error,Major
+D0262,T008,S039,Dosage Error,Major
+D0263,T002,S009,Data Entry Delay,Major
+D0264,T004,S020,Data Entry Delay,Critical
+D0265,T007,S034,Missing Visit,Minor
+D0266,T006,S026,Dosage Error,Critical
+D0267,T006,S029,Eligibility Violation,Major
+D0268,T005,S021,Data Entry Delay,Critical
+D0269,T009,S041,Missing Visit,Critical
+D0270,T001,S001,Eligibility Violation,Critical
+D0271,T001,S002,Data Entry Delay,Minor
+D0272,T008,S037,Dosage Error,Critical
+D0273,T006,S026,Dosage Error,Minor
+D0274,T008,S039,Eligibility Violation,Major
+D0275,T010,S046,Eligibility Violation,Major
+D0276,T009,S045,Data Entry Delay,Minor
+D0277,T009,S044,Eligibility Violation,Critical
+D0278,T008,S037,Dosage Error,Minor
+D0279,T010,S047,Missing Visit,Major
+D0280,T002,S007,Data Entry Delay,Minor
+D0281,T007,S031,Eligibility Violation,Minor
+D0282,T005,S024,Missing Visit,Minor
+D0283,T006,S029,Missing Visit,Critical
+D0284,T006,S029,Data Entry Delay,Major
+D0285,T009,S043,Data Entry Delay,Critical
+D0286,T002,S006,Eligibility Violation,Critical
+D0287,T001,S004,Eligibility Violation,Minor
+D0288,T001,S001,Missing Visit,Major
+D0289,T004,S020,Dosage Error,Minor
+D0290,T005,S023,Eligibility Violation,Major
+D0291,T005,S025,Dosage Error,Critical
+D0292,T002,S008,Dosage Error,Critical
+D0293,T006,S028,Data Entry Delay,Critical
+D0294,T002,S008,Missing Visit,Major
+D0295,T002,S010,Dosage Error,Critical
+D0296,T001,S003,Eligibility Violation,Minor
+D0297,T004,S019,Eligibility Violation,Minor
+D0298,T005,S025,Data Entry Delay,Critical
+D0299,T007,S034,Missing Visit,Major
+D0300,T006,S030,Data Entry Delay,Minor
+D0301,T006,S026,Missing Visit,Minor
+D0302,T004,S017,Data Entry Delay,Critical
+D0303,T009,S042,Eligibility Violation,Major
+D0304,T009,S044,Missing Visit,Critical
+D0305,T003,S015,Data Entry Delay,Critical
+D0306,T001,S003,Dosage Error,Major
+D0307,T008,S039,Dosage Error,Critical
+D0308,T008,S040,Missing Visit,Critical
+D0309,T002,S007,Missing Visit,Major
+D0310,T002,S010,Missing Visit,Critical
+D0311,T004,S019,Dosage Error,Major
+D0312,T007,S032,Data Entry Delay,Major
+D0313,T007,S034,Data Entry Delay,Minor
+D0314,T002,S007,Dosage Error,Minor
+D0315,T004,S016,Data Entry Delay,Critical
+D0316,T009,S041,Dosage Error,Minor
+D0317,T001,S004,Dosage Error,Critical
+D0318,T006,S030,Dosage Error,Minor
+D0319,T006,S027,Eligibility Violation,Major
+D0320,T002,S010,Data Entry Delay,Major
+D0321,T004,S020,Dosage Error,Critical
+D0322,T001,S003,Eligibility Violation,Minor
+D0323,T001,S005,Dosage Error,Critical
+D0324,T010,S048,Data Entry Delay,Critical
+D0325,T005,S023,Eligibility Violation,Critical
+D0326,T001,S002,Dosage Error,Minor
+D0327,T006,S028,Eligibility Violation,Minor
+D0328,T002,S006,Missing Visit,Major
+D0329,T006,S029,Data Entry Delay,Minor
+D0330,T004,S016,Eligibility Violation,Major
+D0331,T002,S006,Missing Visit,Critical
+D0332,T010,S046,Data Entry Delay,Major
+D0333,T001,S005,Missing Visit,Minor
+D0334,T005,S024,Data Entry Delay,Critical
+D0335,T008,S040,Data Entry Delay,Critical
+D0336,T004,S016,Dosage Error,Critical
+D0337,T007,S032,Data Entry Delay,Critical
+D0338,T001,S003,Missing Visit,Major
+D0339,T005,S024,Eligibility Violation,Major
+D0340,T003,S011,Dosage Error,Minor
+D0341,T010,S047,Eligibility Violation,Critical
+D0342,T010,S049,Data Entry Delay,Major
+D0343,T010,S048,Eligibility Violation,Major
+D0344,T003,S012,Data Entry Delay,Major
+D0345,T005,S025,Data Entry Delay,Minor
+D0346,T001,S002,Dosage Error,Minor
+D0347,T001,S002,Eligibility Violation,Minor
+D0348,T009,S043,Missing Visit,Critical
+D0349,T008,S036,Data Entry Delay,Major
+D0350,T002,S009,Data Entry Delay,Minor
+D0351,T004,S017,Missing Visit,Major
+D0352,T009,S043,Data Entry Delay,Critical
+D0353,T001,S002,Eligibility Violation,Critical
+D0354,T001,S002,Missing Visit,Minor
+D0355,T008,S036,Data Entry Delay,Major
+D0356,T009,S042,Missing Visit,Major
+D0357,T005,S023,Missing Visit,Major
+D0358,T008,S037,Data Entry Delay,Critical
+D0359,T006,S029,Data Entry Delay,Minor
+D0360,T010,S050,Data Entry Delay,Critical
+D0361,T010,S050,Missing Visit,Minor
+D0362,T008,S038,Eligibility Violation,Major
+D0363,T007,S033,Missing Visit,Major
+D0364,T006,S027,Dosage Error,Minor
+D0365,T009,S045,Missing Visit,Major
+D0366,T007,S031,Missing Visit,Critical
+D0367,T010,S049,Dosage Error,Critical
+D0368,T009,S044,Dosage Error,Critical
+D0369,T006,S028,Dosage Error,Critical
+D0370,T008,S036,Missing Visit,Critical
+D0371,T010,S050,Eligibility Violation,Minor
+D0372,T008,S040,Missing Visit,Major
+D0373,T010,S050,Dosage Error,Major
+D0374,T002,S009,Data Entry Delay,Minor
+D0375,T006,S026,Dosage Error,Minor
+D0376,T006,S028,Dosage Error,Minor
+D0377,T008,S037,Data Entry Delay,Critical
+D0378,T002,S007,Missing Visit,Major
+D0379,T003,S014,Eligibility Violation,Critical
+D0380,T005,S025,Eligibility Violation,Critical
+D0381,T002,S009,Eligibility Violation,Critical
+D0382,T003,S015,Eligibility Violation,Minor
+D0383,T003,S014,Eligibility Violation,Major
+D0384,T004,S017,Eligibility Violation,Major
+D0385,T002,S007,Dosage Error,Major
+D0386,T003,S011,Data Entry Delay,Critical
+D0387,T009,S042,Missing Visit,Major
+D0388,T010,S048,Missing Visit,Minor
+D0389,T001,S005,Dosage Error,Major
+D0390,T001,S005,Dosage Error,Minor
+D0391,T009,S044,Data Entry Delay,Major
+D0392,T005,S025,Data Entry Delay,Critical
+D0393,T005,S021,Missing Visit,Critical
+D0394,T003,S012,Data Entry Delay,Minor
+D0395,T001,S005,Dosage Error,Major
+D0396,T002,S006,Eligibility Violation,Critical
+D0397,T006,S029,Data Entry Delay,Minor
+D0398,T006,S027,Missing Visit,Major
+D0399,T004,S018,Data Entry Delay,Major
+D0400,T006,S027,Dosage Error,Minor
+D0401,T005,S025,Data Entry Delay,Critical
+D0402,T008,S038,Data Entry Delay,Major
+D0403,T007,S031,Data Entry Delay,Critical
+D0404,T003,S012,Dosage Error,Critical
+D0405,T009,S044,Dosage Error,Major
+D0406,T005,S021,Dosage Error,Critical
+D0407,T002,S008,Data Entry Delay,Major
+D0408,T002,S006,Eligibility Violation,Minor
+D0409,T001,S004,Dosage Error,Critical
+D0410,T008,S036,Missing Visit,Critical
+D0411,T001,S005,Eligibility Violation,Major
+D0412,T004,S017,Missing Visit,Critical
+D0413,T001,S001,Eligibility Violation,Critical
+D0414,T004,S018,Data Entry Delay,Major
+D0415,T002,S006,Dosage Error,Minor
+D0416,T004,S016,Eligibility Violation,Major
+D0417,T003,S013,Eligibility Violation,Minor
+D0418,T001,S001,Eligibility Violation,Critical
+D0419,T008,S040,Data Entry Delay,Critical
+D0420,T008,S040,Eligibility Violation,Minor
+D0421,T005,S024,Dosage Error,Major
+D0422,T010,S048,Missing Visit,Major
+D0423,T003,S013,Dosage Error,Critical
+D0424,T002,S008,Eligibility Violation,Minor
+D0425,T005,S021,Data Entry Delay,Minor
+D0426,T005,S025,Data Entry Delay,Major
+D0427,T005,S024,Dosage Error,Major
+D0428,T002,S010,Missing Visit,Major
+D0429,T005,S024,Eligibility Violation,Minor
+D0430,T008,S036,Dosage Error,Major
+D0431,T003,S015,Dosage Error,Minor
+D0432,T009,S041,Missing Visit,Critical
+D0433,T004,S020,Dosage Error,Critical
+D0434,T008,S037,Eligibility Violation,Minor
+D0435,T002,S009,Missing Visit,Critical
+D0436,T008,S040,Dosage Error,Minor
+D0437,T004,S019,Missing Visit,Critical
+D0438,T004,S018,Data Entry Delay,Major
+D0439,T003,S011,Dosage Error,Critical
+D0440,T007,S032,Missing Visit,Major
+D0441,T001,S001,Dosage Error,Critical
+D0442,T007,S035,Dosage Error,Minor
+D0443,T007,S034,Data Entry Delay,Critical
+D0444,T005,S025,Eligibility Violation,Minor
+D0445,T007,S033,Data Entry Delay,Major
+D0446,T003,S013,Dosage Error,Minor
+D0447,T007,S031,Dosage Error,Minor
+D0448,T001,S005,Missing Visit,Minor
+D0449,T003,S011,Dosage Error,Critical
+D0450,T004,S017,Data Entry Delay,Critical
+D0451,T003,S011,Missing Visit,Major
+D0452,T010,S046,Dosage Error,Minor
+D0453,T001,S005,Data Entry Delay,Major
+D0454,T008,S038,Eligibility Violation,Major
+D0455,T001,S003,Dosage Error,Major
+D0456,T002,S007,Dosage Error,Minor
+D0457,T010,S049,Dosage Error,Minor
+D0458,T006,S030,Dosage Error,Critical
+D0459,T003,S011,Data Entry Delay,Major
+D0460,T003,S012,Missing Visit,Major
+D0461,T005,S023,Eligibility Violation,Minor
+D0462,T007,S035,Eligibility Violation,Critical
+D0463,T009,S041,Eligibility Violation,Major
+D0464,T004,S020,Dosage Error,Minor
+D0465,T005,S022,Eligibility Violation,Minor
+D0466,T002,S006,Eligibility Violation,Minor
+D0467,T007,S034,Dosage Error,Minor
+D0468,T005,S022,Missing Visit,Minor
+D0469,T007,S034,Dosage Error,Minor
+D0470,T003,S013,Dosage Error,Minor
+D0471,T010,S048,Data Entry Delay,Minor
+D0472,T003,S014,Dosage Error,Critical
+D0473,T005,S025,Missing Visit,Critical
+D0474,T001,S001,Data Entry Delay,Major
+D0475,T006,S029,Data Entry Delay,Major
+D0476,T009,S041,Eligibility Violation,Major
+D0477,T003,S014,Data Entry Delay,Minor
+D0478,T002,S008,Missing Visit,Minor
+D0479,T001,S001,Missing Visit,Major
+D0480,T010,S047,Data Entry Delay,Minor
+D0481,T008,S039,Eligibility Violation,Critical
+D0482,T007,S035,Data Entry Delay,Critical
+D0483,T006,S027,Dosage Error,Major
+D0484,T005,S024,Dosage Error,Minor
+D0485,T001,S004,Missing Visit,Critical
+D0486,T001,S004,Dosage Error,Minor
+D0487,T004,S018,Data Entry Delay,Critical
+D0488,T005,S022,Dosage Error,Minor
+D0489,T009,S045,Dosage Error,Minor
+D0490,T005,S023,Dosage Error,Critical
+D0491,T002,S006,Eligibility Violation,Critical
+D0492,T005,S025,Dosage Error,Major
+D0493,T010,S049,Dosage Error,Critical
+D0494,T008,S038,Dosage Error,Minor
+D0495,T004,S017,Dosage Error,Critical
+D0496,T002,S010,Missing Visit,Minor
+D0497,T007,S033,Eligibility Violation,Major
+D0498,T009,S042,Missing Visit,Major
+D0499,T001,S001,Data Entry Delay,Minor
+D0500,T009,S041,Eligibility Violation,Critical

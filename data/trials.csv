@@ -1,0 +1,11 @@
+trial_id,phase,therapeutic_area,target_enrollment,planned_duration_days
+T001,Phase III,Oncology,529,698
+T002,Phase II,Cardiology,463,379
+T003,Phase III,Immunology,371,227
+T004,Phase II,Cardiology,487,450
+T005,Phase II,Immunology,463,304
+T006,Phase III,Neurology,557,276
+T007,Phase III,Oncology,260,400
+T008,Phase II,Immunology,353,228
+T009,Phase II,Oncology,180,632
+T010,Phase III,Oncology,235,457
